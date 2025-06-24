@@ -4,6 +4,6 @@ Home
 @endsection
 @section('page-content')
     <article>
-       Learn German App
+        Learn German App
     </article>
 @endsection

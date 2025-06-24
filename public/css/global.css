@@ -1,0 +1,37 @@
+.box label{
+    text-align: left !important;
+}
+.delete-form{
+    display: inline-block;
+}
+.sm-img{
+    width: 100px;
+    height: 100px;
+}
+.arabic{
+    direction: rtl;
+    text-align: center;
+}
+.copy-notification {
+    color: #ffffff;
+    background-color: rgba(0,0,0,0.8);
+    padding: 20px;
+    border-radius: 30px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    margin-top: -30px;
+    margin-left: -85px;
+    display: none;
+    text-align:center;
+}
+.count_top{
+    font-size:28px;
+}
+.count_top i{
+    padding-right:10px;
+}
+.tile_stats_count .count{
+    font-size:32px;
+}

@@ -1,0 +1,432 @@
+1
+00:00:06,338 --> 00:00:08,042
+das Schlafzimmer
+
+2
+00:00:14,506 --> 00:00:17,106
+ der Weckruf
+
+3
+00:00:18,937 --> 00:00:21,273
+ der Alarm
+
+4
+00:00:22,601 --> 00:00:24,966
+ aufstehen
+
+5
+00:00:26,950 --> 00:00:33,932
+ Ich stehe um 7 Uhr morgens auf.
+
+6
+00:00:33,936 --> 00:00:42,581
+ Ich stand um 7 Uhr morgens auf.
+
+7
+00:00:42,581 --> 00:00:49,965
+ Es ist Sonntag
+
+8
+00:00:52,046 --> 00:00:58,700
+ Es ist mein freier Tag.
+
+9
+00:00:58,716 --> 00:01:11,712
+ Sonntag ist der Tag, an dem ich mich um das Haus und mich selbst kümmere.
+
+10
+00:01:11,901 --> 00:01:20,564
+ Aber ich werde zuerst ein bisschen trainieren.
+
+11
+00:01:26,194 --> 00:01:28,283
+ laufen
+
+12
+00:01:30,225 --> 00:01:36,104
+ Ich renne im Park.
+
+13
+00:01:42,217 --> 00:01:48,544
+ Ich rannte in den Park.
+
+14
+00:01:50,855 --> 00:01:52,665
+ der Park
+
+15
+00:01:58,834 --> 00:02:04,369
+ Ich trainiere im Fitnessstudio.
+
+16
+00:02:04,369 --> 00:02:11,894
+ Ich habe im Fitnessstudio trainiert.
+
+17
+00:02:13,143 --> 00:02:15,798
+ das Fitnesscenter
+
+18
+00:02:17,733 --> 00:02:19,785
+ trainieren
+
+19
+00:02:26,582 --> 00:02:31,755
+ Nach dem Training frühstücke ich.
+
+20
+00:02:31,906 --> 00:02:39,014
+ Ich trinke immer einen Kaffee zum Frühstück.
+
+21
+00:02:39,073 --> 00:02:45,160
+ Ich habe einen Kaffee getrunken.
+
+22
+00:02:45,194 --> 00:02:51,671
+ und ich esse einen Joghurt mit Müsli.
+
+23
+00:02:51,756 --> 00:02:59,167
+ Ich habe einen Joghurt mit Müsli gegessen
+
+24
+00:02:59,167 --> 00:03:04,713
+ Ich habe gefrühstückt.
+
+25
+00:03:05,906 --> 00:03:08,774
+ das Frühstück.
+
+26
+00:03:10,478 --> 00:03:12,777
+ frühstücken
+
+27
+00:03:14,275 --> 00:03:21,873
+ Nach dem Frühstück wasche ich mich.
+
+28
+00:03:28,049 --> 00:03:30,536
+ sich waschen)
+
+29
+00:03:35,462 --> 00:03:40,121
+ ich bade
+
+30
+00:03:42,029 --> 00:03:46,029
+ Ich habe gebadet
+
+31
+00:03:47,516 --> 00:03:50,653
+ die Badewanne
+
+32
+00:03:50,728 --> 00:03:54,709
+ baden / baden
+
+33
+00:03:55,190 --> 00:04:02,467
+ oder ich dusche
+
+34
+00:04:03,545 --> 00:04:07,879
+ Ich habe geduscht
+
+35
+00:04:08,510 --> 00:04:10,864
+ Die Dusche
+
+36
+00:04:12,621 --> 00:04:15,975
+ duschen / duschen
+
+37
+00:04:17,510 --> 00:04:21,373
+ Ich trockne meine Haare.
+
+38
+00:04:21,565 --> 00:04:27,527
+ Ich habe meine Haare getrocknet.
+
+39
+00:04:28,310 --> 00:04:31,402
+ trockenes Haar
+
+40
+00:04:33,105 --> 00:04:34,795
+ der Fön
+
+41
+00:04:35,456 --> 00:04:41,250
+ Ich kämme meine Haare.
+
+42
+00:04:41,543 --> 00:04:47,151
+ Ich habe meine Haare gekämmt.
+
+43
+00:04:48,753 --> 00:04:51,569
+ Haare kämmen
+
+44
+00:04:52,687 --> 00:04:54,927
+ der Kamm
+
+45
+00:04:55,618 --> 00:05:00,192
+ Ich putze meine Zähne
+
+46
+00:05:00,228 --> 00:05:06,165
+ Ich habe mir die Zähne geputzt.
+
+47
+00:05:07,260 --> 00:05:11,430
+ um deine Zähne zu putzen.
+
+48
+00:05:11,773 --> 00:05:14,482
+ die Zahnpasta
+
+49
+00:05:14,555 --> 00:05:18,584
+ die Zahnbürste
+
+50
+00:05:18,921 --> 00:05:23,588
+ Ich trage Creme auf
+
+51
+00:05:23,724 --> 00:05:30,156
+ Ich habe die Creme aufgetragen.
+
+52
+00:05:30,763 --> 00:05:34,601
+ Creme auftragen
+
+53
+00:05:36,235 --> 00:05:38,618
+ die Gesichtscreme
+
+54
+00:05:40,714 --> 00:05:42,859
+ das Bad
+
+55
+00:05:44,369 --> 00:05:52,872
+ Jetzt bin ich bereit, das Haus aufzuräumen.
+
+56
+00:06:02,509 --> 00:06:07,442
+ Ich räume den Raum auf.
+
+57
+00:06:07,562 --> 00:06:13,722
+ Ich habe den Raum aufgeräumt.
+
+58
+00:06:14,662 --> 00:06:17,371
+ Aufräumen
+
+59
+00:06:19,281 --> 00:06:26,029
+ Ich wische die Regale ab.
+
+60
+00:06:26,198 --> 00:06:33,414
+ Ich habe die Regale abgestaubt.
+
+61
+00:06:34,817 --> 00:06:36,990
+ zu Staub
+
+62
+00:06:38,435 --> 00:06:41,938
+ der Staubwedel
+
+63
+00:06:43,658 --> 00:06:46,162
+ der Staub
+
+64
+00:06:47,967 --> 00:06:50,299
+ die Studium
+
+65
+00:06:52,918 --> 00:06:58,047
+ Ich sauge.
+
+66
+00:06:58,073 --> 00:07:05,140
+ Ich habe gesaugt
+
+67
+00:07:05,907 --> 00:07:08,316
+ Staubsaugen
+
+68
+00:07:10,553 --> 00:07:13,326
+ der Staubsauger
+
+69
+00:07:14,695 --> 00:07:19,568
+ Ich wische den Boden
+
+70
+00:07:19,610 --> 00:07:26,132
+ Ich habe den Boden gewischt.
+
+71
+00:07:27,079 --> 00:07:31,622
+ den Boden wischen
+
+72
+00:07:32,274 --> 00:07:35,068
+ der Mopp
+
+73
+00:07:36,540 --> 00:07:38,512
+ das Wohnzimmer
+
+74
+00:07:40,201 --> 00:07:45,520
+ Ich wasche.
+
+75
+00:07:47,528 --> 00:07:52,285
+ Ich habe die Wäsche gemacht.
+
+76
+00:07:53,762 --> 00:07:55,999
+ waschen
+
+77
+00:07:57,645 --> 00:08:00,130
+ die Waschmaschine
+
+78
+00:08:02,042 --> 00:08:03,941
+ das Waschmittel
+
+79
+00:08:05,559 --> 00:08:08,396
+ der Weichspüler
+
+80
+00:08:09,696 --> 00:08:11,954
+ Der Wäscheraum.
+
+81
+00:08:13,357 --> 00:08:18,386
+ Ich hänge den Abwasch auf.
+
+82
+00:08:18,633 --> 00:08:24,928
+ Ich habe den Abwasch aufgehängt
+
+83
+00:08:26,283 --> 00:08:31,496
+ zum Trocknen aufhängen
+
+84
+00:08:31,842 --> 00:08:36,721
+ Ich bügele die Kleidung.
+
+85
+00:08:36,828 --> 00:08:43,097
+ Ich habe die Kleidung gebügelt.
+
+86
+00:08:44,241 --> 00:08:48,241
+ Bügeln
+
+87
+00:08:48,366 --> 00:08:51,524
+ das Bügelbrett
+
+88
+00:08:51,612 --> 00:08:54,702
+ das Bügeleisen
+
+89
+00:08:56,088 --> 00:09:01,863
+ Ich koche Mittagessen.
+
+90
+00:09:02,274 --> 00:09:08,956
+ Ich habe das Mittagessen gekocht
+
+91
+00:09:10,813 --> 00:09:14,813
+ Kochen
+
+92
+00:09:15,477 --> 00:09:19,370
+ Ich esse zu Mittag
+
+93
+00:09:19,690 --> 00:09:25,157
+ Ich habe zu Mittag gegessen
+
+94
+00:09:26,640 --> 00:09:28,838
+ Essen
+
+95
+00:09:30,979 --> 00:09:35,061
+ Ich spüle das Geschirr.
+
+96
+00:09:36,877 --> 00:09:44,376
+ Ich habe das Geschirr abgewaschen
+
+97
+00:09:45,746 --> 00:09:48,159
+ Geschirr spülen
+
+98
+00:09:50,216 --> 00:09:52,928
+ das Geschirr trocknen.
+
+99
+00:09:54,318 --> 00:10:02,773
+ Leider habe ich keinen Geschirrspüler.
+
+100
+00:10:06,200 --> 00:10:08,240
+ die Küche
+
+101
+00:10:09,627 --> 00:10:15,764
+ Was hast du an deinem freien Tag gemacht?
+
+102
+00:10:17,519 --> 00:10:22,993
+ Schreiben Sie in die Kommentare.
+
+103
+00:10:24,549 --> 00:10:26,748
+ Möchten Sie weitere Videos sehen?
+
+104
+00:10:26,748 --> 00:10:28,971
+ Dann abonnieren Sie unseren Kanal
+
+105
+00:10:28,971 --> 00:10:31,815
+ Jeden Sonntag ein neues Video.
+
+106
+00:10:31,815 --> 00:10:34,940
+ Möchten Sie weitere Videos sehen?
+
+107
+00:10:34,940 --> 00:10:37,000
+ Dann abonnieren Sie unseren Kanal
+
+108
+00:10:37,000 --> 00:10:41,000
+ Jeden Sonntag ein neues Video.
+

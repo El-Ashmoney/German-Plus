@@ -1,0 +1,31 @@
+.file-upload .image-box {
+    margin: 0 auto;
+    margin-top: 1em;
+    height: 15em;
+    width: 20em;
+    background: #222D32;
+    cursor: pointer;
+    overflow: hidden;
+}
+.file-upload .image-box img {
+    height: 100%;
+    display: none;
+}
+.file-upload .image-box p {
+    position: relative;
+    top: 45%;
+    color: #fff;
+}
+.file-upload .controls{
+    display: none;
+}
+    
+.file-upload.file-edit .image-box p{
+    display: none;
+}
+.file-upload.file-edit .image-box{
+    background: transparent;
+}
+.file-upload.file-edit .image-box img{
+    display: inline;
+}

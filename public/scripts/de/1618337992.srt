@@ -1,0 +1,240 @@
+1
+00:00:00,080 --> 00:00:08,960
+Wählen Sie Ihre bevorzugten sozialen Netzwerkmedien und werden Sie unsere Fans und Abonnenten
+
+2
+00:00:26,600 --> 00:00:29,380
+ Tina ruft an.
+
+3
+00:00:30,540 --> 00:00:31,940
+ Hallo Tina.
+
+4
+00:00:32,119 --> 00:00:33,120
+ Hallo Lisa.
+
+5
+00:00:33,120 --> 00:00:35,200
+ Wie geht es dir?
+
+6
+00:00:35,800 --> 00:00:38,700
+ Gut. Vielen Dank. Was ist mit dir
+
+7
+00:00:38,880 --> 00:00:39,920
+ Auch sehr gut.
+
+8
+00:00:40,480 --> 00:00:41,920
+ Sind Sie zu Hause?
+
+9
+00:00:42,560 --> 00:00:45,575
+ Ja, so ist es. Warum fragst du?
+
+10
+00:00:45,580 --> 00:00:47,940
+ Ich shoppe.
+
+11
+00:00:47,940 --> 00:00:52,420
+ Ihre neue Wohnung befindet sich in der Nähe des Supermarktes.
+
+12
+00:00:52,500 --> 00:00:53,440
+ Ja, so ist es.
+
+13
+00:00:53,440 --> 00:00:55,020
+ Ich will dich besuchen.
+
+14
+00:00:55,020 --> 00:00:56,180
+ Hast du die zeit /Sind Sie frei?
+
+15
+00:00:57,360 --> 00:00:59,540
+ Haben. gute Idee. Wann kommst du?
+
+16
+00:00:59,540 --> 00:01:02,700
+ Nach ca. 20 Minuten.
+
+17
+00:01:02,700 --> 00:01:06,820
+ Groß. Ich bereite etwas zu essen zu.
+
+18
+00:01:06,820 --> 00:01:08,060
+ bis später.
+
+19
+00:01:08,060 --> 00:01:10,740
+ Auf Wiedersehen.
+
+20
+00:01:15,980 --> 00:01:18,340
+ 20 Minuten später
+
+21
+00:01:26,700 --> 00:01:28,420
+ Komm rein, Tina.
+
+22
+00:01:28,480 --> 00:01:30,820
+ Das ist meine neue Wohnung.
+
+23
+00:01:31,240 --> 00:01:33,800
+ Beeindruckend. es ist wunderschön!
+
+24
+00:01:33,800 --> 00:01:37,360
+ Legen Sie die Dinge, die Sie kaufen, auf den Tisch.
+
+25
+00:01:37,365 --> 00:01:40,695
+ Dieses Wohnzimmer ist groß und hell.
+
+26
+00:01:41,015 --> 00:01:42,015
+ Ja, so ist es.
+
+27
+00:01:42,255 --> 00:01:44,875
+ Es hat zwei große Fenster.
+
+28
+00:01:45,415 --> 00:01:47,275
+ Dieses Sofa ist sehr bequem.
+
+29
+00:01:50,095 --> 00:01:52,685
+ Dieser Fernseher ist sehr in Mode.
+
+30
+00:01:52,960 --> 00:01:56,820
+ Sowohl der Tisch als auch der Pflanzentopf stammen aus Japan.
+
+31
+00:01:57,080 --> 00:01:59,280
+ Ist diese Lampe auch?
+
+32
+00:01:59,280 --> 00:02:02,700
+ Ja, und die Kissen hier auch.
+
+33
+00:02:02,700 --> 00:02:06,260
+ komm zusammen. Ich werde dir jetzt die Küche zeigen.
+
+34
+00:02:12,660 --> 00:02:14,520
+ Das ist meine Küche.
+
+35
+00:02:14,520 --> 00:02:17,320
+ Es ist klein, aber sehr praktisch.
+
+36
+00:02:17,320 --> 00:02:18,900
+ Es gibt ein Waschbecken.
+
+37
+00:02:18,900 --> 00:02:21,860
+ Es gibt einen Tisch und zwei Stühle.
+
+38
+00:02:22,300 --> 00:02:25,200
+ Es gibt einen Herd mit Backofen.
+
+39
+00:02:25,200 --> 00:02:26,980
+ Es gibt einen Kühlschrank.
+
+40
+00:02:27,060 --> 00:02:29,080
+ Ich mag diese Küche.
+
+41
+00:02:29,220 --> 00:02:31,660
+ Essen wir später Sushi?
+
+42
+00:02:31,760 --> 00:02:38,940
+ Ja, so ist es. Aber komm schon. Jetzt habe ich noch ein Schlafzimmer und ein Badezimmer, die ich dir zeigen kann.
+
+43
+00:02:42,700 --> 00:02:44,600
+ Das ist mein Schlafzimmer.
+
+44
+00:02:44,600 --> 00:02:46,260
+ Da ist ein Bett.
+
+45
+00:02:46,380 --> 00:02:48,400
+ Es gibt ein Licht.
+
+46
+00:02:48,440 --> 00:02:53,240
+ Ich habe einen Kleiderschrank, aber keinen Kleiderschrank.
+
+47
+00:02:53,460 --> 00:02:55,320
+ Dieses Bild ist sehr schön.
+
+48
+00:02:55,360 --> 00:02:59,760
+ Ja, so ist es. Es präsentiert meine Heimatstadt in Japan.
+
+49
+00:02:59,820 --> 00:03:02,080
+ Ich habe hier auch einen Teppich.
+
+50
+00:03:02,080 --> 00:03:05,600
+ komm zusammen. Lass uns auf die Toilette gehen.
+
+51
+00:03:11,540 --> 00:03:13,300
+ Das ist mein Badezimmer.
+
+52
+00:03:13,500 --> 00:03:15,920
+ Es gibt zwei Spiegel,
+
+53
+00:03:16,200 --> 00:03:17,360
+ Ein Waschbecken,
+
+54
+00:03:17,700 --> 00:03:19,140
+ Eine Toilette,
+
+55
+00:03:19,420 --> 00:03:20,740
+ Es hat auch eine Dusche.
+
+56
+00:03:20,820 --> 00:03:24,080
+ Verdammt! Ich habe zugenommen!
+
+57
+00:03:24,180 --> 00:03:28,820
+ nein nein! Diese Skala ist gebrochen.
+
+58
+00:03:28,940 --> 00:03:30,880
+ Es kann nicht richtig funktionieren.
+
+59
+00:03:31,380 --> 00:03:34,300
+ Anruf! Ich fühle mich entspannt.
+
+60
+00:03:34,400 --> 00:03:37,960
+ Hallo Deutschschule
+

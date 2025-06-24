@@ -1,0 +1,736 @@
+1
+00:00:00,555 --> 00:00:03,935
+Welche Farbe hat der Rucksack?
+
+2
+00:00:08,385 --> 00:00:11,695
+ Welche Farbe hat der Rucksack?
+
+3
+00:00:15,675 --> 00:00:17,785
+ Es ist grün.
+
+4
+00:00:21,365 --> 00:00:23,695
+ Es ist grün.
+
+5
+00:00:28,535 --> 00:00:31,875
+ Welche Farbe haben die Schuhe?
+
+6
+00:00:36,085 --> 00:00:39,575
+ Welche Farbe haben die Schuhe?
+
+7
+00:00:43,995 --> 00:00:46,175
+ Sie sind braun.
+
+8
+00:00:49,615 --> 00:00:51,995
+ Sie sind braun.
+
+9
+00:00:55,875 --> 00:00:58,605
+ Wie viel kostet das Kleid?
+
+10
+00:01:03,705 --> 00:01:06,475
+ Wie viel kostet das Kleid?
+
+11
+00:01:11,720 --> 00:01:15,720
+ Es kostet 149 Franken.
+
+12
+00:01:21,160 --> 00:01:25,520
+ Es kostet 149 Franken.
+
+13
+00:01:30,460 --> 00:01:33,300
+ Was kostet der Pullover?
+
+14
+00:01:38,300 --> 00:01:41,180
+ Was kostet der Pullover?
+
+15
+00:01:45,760 --> 00:01:48,860
+ Es kostet 87 Franken.
+
+16
+00:01:53,720 --> 00:01:57,120
+ Es kostet 87 Franken.
+
+17
+00:02:01,805 --> 00:02:04,555
+ Was kostet die Schere?
+
+18
+00:02:08,539 --> 00:02:11,400
+ Was kostet die Schere?
+
+19
+00:02:16,240 --> 00:02:19,060
+ Sie kosten 6,80 Franken.
+
+20
+00:02:23,860 --> 00:02:26,880
+ Sie kosten 6,80 Franken.
+
+21
+00:02:30,280 --> 00:02:32,620
+ Hier ist ein Schlüssel.
+
+22
+00:02:37,055 --> 00:02:39,275
+ Hier ist ein Schlüssel.
+
+23
+00:02:43,125 --> 00:02:45,745
+ Ist das dein Schlüssel?
+
+24
+00:02:49,560 --> 00:02:52,020
+ Ist das dein Schlüssel?
+
+25
+00:02:56,160 --> 00:02:58,580
+ Nein, das ist nicht mein Schlüssel.
+
+26
+00:03:04,700 --> 00:03:07,600
+ Nein, das ist nicht mein Schlüssel.
+
+27
+00:03:13,020 --> 00:03:16,100
+ Welche Farbe ist der Schlüssel?
+
+28
+00:03:20,205 --> 00:03:23,565
+ Welche Farbe ist der Schlüssel?
+
+29
+00:03:28,465 --> 00:03:30,485
+ Es ist blau.
+
+30
+00:03:34,215 --> 00:03:36,325
+ Es ist blau.
+
+31
+00:03:39,695 --> 00:03:42,125
+ Hier ist eine Jacke.
+
+32
+00:03:45,935 --> 00:03:48,575
+ Hier ist eine Jacke.
+
+33
+00:03:52,335 --> 00:03:55,085
+ Ist das deine Jacke?
+
+34
+00:03:59,540 --> 00:04:02,480
+ Ist das deine Jacke?
+
+35
+00:04:07,320 --> 00:04:10,380
+ Nein, das ist nicht meine Jacke.
+
+36
+00:04:15,600 --> 00:04:19,000
+ Nein, das ist nicht meine Jacke.
+
+37
+00:04:23,780 --> 00:04:26,840
+ Welche Farbe hat die Jacke?
+
+38
+00:04:30,745 --> 00:04:34,115
+ Welche Farbe hat die Jacke?
+
+39
+00:04:38,585 --> 00:04:40,875
+ Es ist rot.
+
+40
+00:04:43,895 --> 00:04:46,345
+ Es ist rot.
+
+41
+00:04:49,855 --> 00:04:52,545
+ Hier ist ein Handy.
+
+42
+00:04:56,155 --> 00:04:58,945
+ Hier ist ein Handy.
+
+43
+00:05:02,525 --> 00:05:05,175
+ Ist das dein Handy?
+
+44
+00:05:09,320 --> 00:05:11,980
+ Ist das dein Handy?
+
+45
+00:05:16,840 --> 00:05:20,260
+ Nein, das ist nicht mein Handy.
+
+46
+00:05:25,060 --> 00:05:29,020
+ Nein, das ist nicht mein Handy.
+
+47
+00:05:33,465 --> 00:05:36,315
+ Welche Farbe hat das Telefon?
+
+48
+00:05:40,815 --> 00:05:43,735
+ Welche Farbe hat das Telefon?
+
+49
+00:05:47,935 --> 00:05:50,385
+ Es ist schwarz.
+
+50
+00:05:54,095 --> 00:05:56,825
+ Es ist schwarz.
+
+51
+00:06:00,025 --> 00:06:01,985
+ Was machst du gerne?
+
+52
+00:06:04,655 --> 00:06:06,895
+ Was machst du gerne?
+
+53
+00:06:10,085 --> 00:06:11,835
+ Ich gehe gerne Schwimmen.
+
+54
+00:06:14,095 --> 00:06:15,815
+ Ich gehe gerne Schwimmen.
+
+55
+00:06:18,535 --> 00:06:20,315
+ Ich tanze gerne.
+
+56
+00:06:23,075 --> 00:06:24,855
+ Ich tanze gerne.
+
+57
+00:06:26,505 --> 00:06:28,955
+ Spielst du gerne Fußball?
+
+58
+00:06:32,795 --> 00:06:35,395
+ Spielst du gerne Fußball?
+
+59
+00:06:39,135 --> 00:06:42,165
+ Ja, ich spiele gerne Fußball.
+
+60
+00:06:46,275 --> 00:06:49,565
+ Ja, ich spiele gerne Fußball.
+
+61
+00:06:53,955 --> 00:06:57,205
+ Nein, ich spiele nicht gerne Fußball.
+
+62
+00:07:01,920 --> 00:07:04,900
+ Nein, ich spiele nicht gerne Fußball.
+
+63
+00:07:10,080 --> 00:07:12,680
+ Was machst du nicht gerne?
+
+64
+00:07:16,745 --> 00:07:19,565
+ Was machst du nicht gerne?
+
+65
+00:07:23,815 --> 00:07:26,495
+ Ich mag es nicht zu putzen.
+
+66
+00:07:30,365 --> 00:07:33,335
+ Ich mag es nicht zu putzen.
+
+67
+00:07:39,985 --> 00:07:43,055
+ Ich arbeite nicht gern.
+
+68
+00:07:44,815 --> 00:07:47,855
+ Ich arbeite nicht gern.
+
+69
+00:07:49,695 --> 00:07:51,915
+ Ich koche nicht gern.
+
+70
+00:07:54,245 --> 00:07:56,455
+ Ich koche nicht gern.
+
+71
+00:07:58,545 --> 00:08:00,695
+ Ich gehe ins Kino
+
+72
+00:08:04,085 --> 00:08:06,405
+ Ich gehe ins Kino
+
+73
+00:08:09,845 --> 00:08:12,305
+ Ich putze die Wohnung.
+
+74
+00:08:16,715 --> 00:08:19,535
+ Ich putze die Wohnung.
+
+75
+00:08:23,125 --> 00:08:24,745
+ Können Sie mir helfen?
+
+76
+00:08:27,335 --> 00:08:29,085
+ Können Sie mir helfen?
+
+77
+00:08:32,059 --> 00:08:34,699
+ Ja. Ich werde dir helfen.
+
+78
+00:08:38,539 --> 00:08:41,339
+ Ja. Ich werde dir helfen.
+
+79
+00:08:44,640 --> 00:08:47,500
+ Nein, ich werde dir nicht helfen.
+
+80
+00:08:50,620 --> 00:08:53,520
+ Nein, ich werde dir nicht helfen.
+
+81
+00:08:56,945 --> 00:08:58,845
+ Fahren Sie gerne Fahrrad?
+
+82
+00:09:02,235 --> 00:09:04,435
+ Fahren Sie gerne Fahrrad?
+
+83
+00:09:07,635 --> 00:09:08,635
+ Ja, ich fahre gerne Fahrrad.
+
+84
+00:09:08,705 --> 00:09:10,755
+ Ja, ich fahre gerne Fahrrad.
+
+85
+00:09:14,655 --> 00:09:17,785
+ Ja, ich fahre gerne Fahrrad.
+
+86
+00:09:21,315 --> 00:09:24,795
+ Nein, ich fahre nicht gerne Fahrrad.
+
+87
+00:09:28,465 --> 00:09:31,955
+ Nein, ich fahre nicht gerne Fahrrad.
+
+88
+00:09:35,895 --> 00:09:38,555
+ Gibst du mir deine Handynummer?
+
+89
+00:09:42,385 --> 00:09:45,235
+ Gibst du mir deine Handynummer?
+
+90
+00:09:48,535 --> 00:09:51,125
+ Ja, ich gebe dir meine Handynummer.
+
+91
+00:09:51,125 --> 00:09:52,325
+ Ja, ich gebe dir meine Handynummer.
+
+92
+00:09:56,535 --> 00:09:58,955
+ Ja, ich gebe dir meine Handynummer.
+
+93
+00:09:58,955 --> 00:10:00,335
+ Ja, ich gebe dir meine Handynummer.
+
+94
+00:10:04,325 --> 00:10:07,415
+ Nein, ich werde dir meine Handynummer nicht geben.
+
+95
+00:10:12,000 --> 00:10:15,420
+ Nein, ich werde dir meine Handynummer nicht geben.
+
+96
+00:10:20,580 --> 00:10:22,120
+ Hast du Kinder?
+
+97
+00:10:25,435 --> 00:10:27,045
+ Hast du Kinder?
+
+98
+00:10:30,285 --> 00:10:32,955
+ Ja, ich habe Kinder.
+
+99
+00:10:36,245 --> 00:10:38,955
+ Ja, ich habe Kinder.
+
+100
+00:10:42,575 --> 00:10:46,055
+ Nein, ich habe keine Kinder.
+
+101
+00:10:50,025 --> 00:10:53,265
+ Nein, ich habe keine Kinder.
+
+102
+00:10:57,175 --> 00:11:00,115
+ Abends laufe ich immer im Park.
+
+103
+00:11:02,060 --> 00:11:05,240
+ Abends laufe ich immer im Park.
+
+104
+00:11:08,000 --> 00:11:10,920
+ Ich treffe mich jeden Freitag nach der Arbeit mit Freunden.
+
+105
+00:11:12,380 --> 00:11:15,300
+ Ich treffe mich jeden Freitag nach der Arbeit mit Freunden.
+
+106
+00:11:16,220 --> 00:11:18,120
+ Wir gehen in eine Bar.
+
+107
+00:11:19,055 --> 00:11:20,945
+ Wir gehen in eine Bar.
+
+108
+00:11:22,595 --> 00:11:25,115
+ Spielst du oft Sport?
+
+109
+00:11:29,215 --> 00:11:31,995
+ Spielst du oft Sport?
+
+110
+00:11:36,065 --> 00:11:38,885
+ Ja, ich treibe oft Sport.
+
+111
+00:11:43,425 --> 00:11:46,535
+ Ja, ich treibe oft Sport.
+
+112
+00:11:51,025 --> 00:11:54,385
+ Nein, ich treibe selten Sport.
+
+113
+00:11:58,920 --> 00:12:02,240
+ Nein, ich treibe selten Sport.
+
+114
+00:12:07,720 --> 00:12:08,900
+ Rauchen Sie?
+
+115
+00:12:11,405 --> 00:12:12,775
+ Rauchen Sie?
+
+116
+00:12:15,045 --> 00:12:17,825
+ Ja, ich rauche manchmal.
+
+117
+00:12:21,495 --> 00:12:24,695
+ Ja, ich rauche manchmal.
+
+118
+00:12:28,295 --> 00:12:31,505
+ Nein, ich rauche nicht.
+
+119
+00:12:35,405 --> 00:12:38,805
+ Nein, ich rauche nicht.
+
+120
+00:12:40,075 --> 00:12:42,225
+ Essen Sie gesund?
+
+121
+00:12:45,715 --> 00:12:47,925
+ Essen Sie gesund?
+
+122
+00:12:51,595 --> 00:12:54,135
+ Ja, ich esse normalerweise gesund.
+
+123
+00:12:54,135 --> 00:12:55,485
+ Ja, ich esse normalerweise gesund.
+
+124
+00:13:00,045 --> 00:13:02,695
+ Ja, ich esse normalerweise gesund.
+
+125
+00:13:02,695 --> 00:13:03,975
+ Ja, ich esse normalerweise gesund.
+
+126
+00:13:08,035 --> 00:13:09,755
+ Nein, ich esse selten gesund.
+
+127
+00:13:09,755 --> 00:13:11,665
+ Nein, ich esse selten gesund.
+
+128
+00:13:16,255 --> 00:13:18,795
+ Nein, ich esse selten gesund.
+
+129
+00:13:18,795 --> 00:13:20,155
+ Nein, ich esse selten gesund.
+
+130
+00:13:26,965 --> 00:13:28,855
+ Wann beginnt der Film?
+
+131
+00:13:32,020 --> 00:13:34,160
+ Wann beginnt der Film?
+
+132
+00:13:37,740 --> 00:13:40,760
+ Der Film beginnt um 18.16 Uhr.
+
+133
+00:13:46,300 --> 00:13:50,000
+ Der Film beginnt um 18.16 Uhr.
+
+134
+00:13:57,760 --> 00:14:01,020
+ Gibt es am Montag noch einen Termin?
+
+135
+00:14:04,900 --> 00:14:08,180
+ Gibt es am Montag noch einen Termin?
+
+136
+00:14:12,580 --> 00:14:15,440
+ Ja. Am Montag ist noch ein Termin frei.
+
+137
+00:14:20,400 --> 00:14:24,120
+ Ja. Am Montag ist noch ein Termin frei.
+
+138
+00:14:28,820 --> 00:14:31,115
+ Nein. Am Montag sind keine Termine verfügbar.
+
+139
+00:14:31,115 --> 00:14:33,125
+ Nein. Am Montag sind keine Termine verfügbar.
+
+140
+00:14:37,395 --> 00:14:39,925
+ Nein. Am Montag sind keine Termine verfügbar.
+
+141
+00:14:39,925 --> 00:14:42,205
+ Nein. Am Montag sind keine Termine verfügbar.
+
+142
+00:14:46,875 --> 00:14:49,935
+ Wann ist Ihr Arzttermin?
+
+143
+00:14:54,525 --> 00:14:57,535
+ Wann ist Ihr Arzttermin?
+
+144
+00:15:01,605 --> 00:15:04,545
+ Mein Termin ist am Montag um 9.30 Uhr.
+
+145
+00:15:04,685 --> 00:15:07,025
+ Mein Termin ist am Montag um 9.30 Uhr.
+
+146
+00:15:11,715 --> 00:15:14,735
+ Mein Termin ist am Montag um 9.30 Uhr.
+
+147
+00:15:14,965 --> 00:15:17,215
+ Mein Termin ist am Montag um 9.30 Uhr.
+
+148
+00:15:22,520 --> 00:15:25,820
+ Wann ist der Supermarkt bis geöffnet?
+
+149
+00:15:30,680 --> 00:15:34,020
+ Wann ist der Supermarkt bis geöffnet?
+
+150
+00:15:38,280 --> 00:15:39,980
+ Die Supermärkte haben bis 19.30 Uhr geöffnet.
+
+151
+00:15:39,985 --> 00:15:42,585
+ Die Supermärkte haben bis 19.30 Uhr geöffnet.
+
+152
+00:15:48,375 --> 00:15:50,055
+ Die Supermärkte haben bis 19.30 Uhr geöffnet.
+
+153
+00:15:50,055 --> 00:15:52,905
+ Die Supermärkte haben bis 19.30 Uhr geöffnet.
+
+154
+00:15:52,905 --> 00:15:53,905
+ Die Supermärkte haben bis 19.30 Uhr geöffnet.
+
+155
+00:15:59,475 --> 00:16:01,415
+ Kannst du gut kochen?
+
+156
+00:16:05,605 --> 00:16:07,445
+ Kannst du gut kochen?
+
+157
+00:16:11,275 --> 00:16:14,675
+ Ja, ich kann sehr gut kochen.
+
+158
+00:16:18,665 --> 00:16:21,975
+ Ja, ich kann sehr gut kochen.
+
+159
+00:16:26,215 --> 00:16:29,425
+ Nein, ich kann nicht gut kochen.
+
+160
+00:16:33,235 --> 00:16:36,275
+ Nein, ich kann nicht gut kochen.
+
+161
+00:16:40,945 --> 00:16:43,545
+ Kannst du Gitarre spielen?
+
+162
+00:16:47,535 --> 00:16:50,495
+ Kannst du Gitarre spielen?
+
+163
+00:16:53,895 --> 00:16:57,225
+ Ja, ich kann Gitarre spielen.
+
+164
+00:17:01,045 --> 00:17:04,175
+ Ja, ich kann Gitarre spielen.
+
+165
+00:17:08,275 --> 00:17:10,625
+ Nein, ich kann keine Gitarre spielen.
+
+166
+00:17:10,625 --> 00:17:11,975
+ Nein, ich kann keine Gitarre spielen.
+
+167
+00:17:15,974 --> 00:17:18,744
+ Nein, ich kann keine Gitarre spielen.
+
+168
+00:17:18,744 --> 00:17:19,754
+ Nein, ich kann keine Gitarre spielen.
+
+169
+00:17:23,244 --> 00:17:25,954
+ Wann stehst du morgens auf?
+
+170
+00:17:29,875 --> 00:17:32,805
+ Wann stehst du morgens auf?
+
+171
+00:17:36,835 --> 00:17:39,735
+ Ich stehe um 20 nach 6 auf.
+
+172
+00:17:39,735 --> 00:17:40,775
+ Ich stehe um 20 nach 6 auf.
+
+173
+00:17:45,405 --> 00:17:47,985
+ Ich stehe um 20 nach 6 auf.
+
+174
+00:17:47,985 --> 00:17:49,055
+ Ich stehe um 20 nach 6 auf.
+
+175
+00:17:53,585 --> 00:17:56,545
+ Was trägst du zur Party?
+
+176
+00:17:59,915 --> 00:18:03,195
+ Was trägst du zur Party?
+
+177
+00:18:07,185 --> 00:18:09,945
+ Ich ziehe ein Kleid an.
+
+178
+00:18:13,325 --> 00:18:16,215
+ Ich ziehe ein Kleid an.
+
+179
+00:18:19,655 --> 00:18:22,975
+ Möchten Sie kostenlos online Deutsch lernen?
+
+180
+00:18:23,175 --> 00:18:26,035
+ Mehr als 200 Videos.
+
+181
+00:18:26,035 --> 00:18:28,775
+ Abonniere unseren Kanal.
+
+182
+00:18:28,775 --> 00:18:31,795
+ Möchten Sie kostenlos online Deutsch lernen?
+
+183
+00:18:31,795 --> 00:18:34,235
+ Mehr als 200 Videos.
+
+184
+00:18:34,235 --> 00:18:36,485
+ Abonniere unseren Kanal.
+

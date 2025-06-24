@@ -27,16 +27,16 @@ class RegisterationController extends Controller
      */
     public function store(Request $request)
     {
-        $this->validate(request(), [
+        $request->validate([
             'name' => 'required',
             'email' => 'required|email',
             'password' => 'required|confirmed'
         ]);
-        $user = User::create(request(['name', 'email', 'password']));
+        $user = User::create($request->only(['name', 'email', 'password']));
         $user->roles()->attach(Role::where('name', 'student')->first());
 
         auth()->login($user);
-        return redirect()->to('/');
+        return redirect()->route('admin.index');
     }
 
     protected function respondWithToken($token)
